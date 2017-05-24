@@ -1,0 +1,4 @@
+CONSUMER_KEY= your api key
+APPLICATION_SECRET= your application secret
+TOKEN_KEY= your token key
+SECRET_TOKEN= your secret token
